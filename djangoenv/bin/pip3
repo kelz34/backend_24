@@ -1,4 +1,4 @@
-#!/Users/kelvinlaurore/GA/homeworks/hw24_Blog_App_API/djangoenv/bin/python3
+#!/Users/kelvinlaurore/GA/homeworks/hw24_Blog_App_API/djangoenv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
